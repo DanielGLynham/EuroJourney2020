@@ -1,0 +1,1231 @@
+fileFormatVersion: 2
+guid: 6aaf052f4e18495418cf86d9db3e64ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4553459926938751675
+    second: shorterbutton spritesheet_0
+  - first:
+      213: -2336292920588988779
+    second: shorterbutton spritesheet_1
+  - first:
+      213: 3005415055732820886
+    second: shorterbutton spritesheet_2
+  - first:
+      213: -4155303193425116487
+    second: shorterbutton spritesheet_3
+  - first:
+      213: 2664214135225310526
+    second: shorterbutton spritesheet_4
+  - first:
+      213: -2384367544543566395
+    second: shorterbutton spritesheet_5
+  - first:
+      213: -820081441170251176
+    second: shorterbutton spritesheet_6
+  - first:
+      213: 5482612749088968947
+    second: shorterbutton spritesheet_7
+  - first:
+      213: 8012248700122912842
+    second: shorterbutton spritesheet_8
+  - first:
+      213: 2385845033307434966
+    second: shorterbutton spritesheet_9
+  - first:
+      213: 778756278724599721
+    second: shorterbutton spritesheet_10
+  - first:
+      213: 3324924095767463708
+    second: shorterbutton spritesheet_11
+  - first:
+      213: 8099479500985131022
+    second: shorterbutton spritesheet_12
+  - first:
+      213: -5825975690168288785
+    second: shorterbutton spritesheet_13
+  - first:
+      213: -4720089086165434649
+    second: shorterbutton spritesheet_14
+  - first:
+      213: -8886415623067639203
+    second: shorterbutton spritesheet_15
+  - first:
+      213: 1315084186235214681
+    second: shorterbutton spritesheet_16
+  - first:
+      213: 8292583780171615776
+    second: shorterbutton spritesheet_17
+  - first:
+      213: -3640259117040549234
+    second: shorterbutton spritesheet_18
+  - first:
+      213: 7802207116987167899
+    second: shorterbutton spritesheet_19
+  - first:
+      213: 9167647911289842865
+    second: shorterbutton spritesheet_20
+  - first:
+      213: 5689718990650675089
+    second: shorterbutton spritesheet_21
+  - first:
+      213: 4171351788993267097
+    second: shorterbutton spritesheet_22
+  - first:
+      213: -3533142133586766807
+    second: shorterbutton spritesheet_23
+  - first:
+      213: 322149388597659950
+    second: shorterbutton spritesheet_24
+  - first:
+      213: -340734109029570666
+    second: shorterbutton spritesheet_25
+  - first:
+      213: -3718170130877498124
+    second: shorterbutton spritesheet_26
+  - first:
+      213: 2533203954213540062
+    second: shorterbutton spritesheet_27
+  - first:
+      213: 5634150727758853462
+    second: shorterbutton spritesheet_28
+  - first:
+      213: -6528086398004807286
+    second: shorterbutton spritesheet_29
+  - first:
+      213: 5305668448222908756
+    second: shorterbutton spritesheet_30
+  - first:
+      213: 4205780805067432227
+    second: shorterbutton spritesheet_31
+  - first:
+      213: -7173509082289414276
+    second: shorterbutton spritesheet_32
+  - first:
+      213: -4704724348758412535
+    second: shorterbutton spritesheet_33
+  - first:
+      213: -7365834454424586495
+    second: shorterbutton spritesheet_34
+  - first:
+      213: 561885656656386622
+    second: shorterbutton spritesheet_35
+  - first:
+      213: -7610155775165701294
+    second: shorterbutton spritesheet_36
+  - first:
+      213: 3475370266886980369
+    second: shorterbutton spritesheet_37
+  - first:
+      213: 4948890785718823848
+    second: shorterbutton spritesheet_38
+  - first:
+      213: -5546971407924732019
+    second: shorterbutton spritesheet_39
+  - first:
+      213: -4153361609752706004
+    second: shorterbutton spritesheet_40
+  - first:
+      213: 5658167212281494211
+    second: shorterbutton spritesheet_41
+  - first:
+      213: -2729416518665023269
+    second: shorterbutton spritesheet_42
+  - first:
+      213: -4701370969200177741
+    second: shorterbutton spritesheet_43
+  - first:
+      213: -4325062114681231130
+    second: shorterbutton spritesheet_44
+  - first:
+      213: -4432141548946200071
+    second: shorterbutton spritesheet_45
+  - first:
+      213: 4599292157377736445
+    second: shorterbutton spritesheet_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859afc11b63495743a520abc5a1e056f
+      internalID: -4553459926938751675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc3525da34e38f459d2d8c5fc367e7b
+      internalID: -2336292920588988779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed656dcebf73374d9b0722e5eb1db4e
+      internalID: 3005415055732820886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9f7e9ff91ef2a4c8782604ff463cf7
+      internalID: -4155303193425116487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552dab5b68f2e2d448bbf7e2218698fe
+      internalID: 2664214135225310526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf4c14967578894ba4a42413a2200f0
+      internalID: -2384367544543566395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c27ebfdfebabd479f58451e492a821
+      internalID: -820081441170251176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b672df9f70f2a499eec4deeded2b70
+      internalID: 5482612749088968947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96658b1a7368e494296ef49f73db2ad9
+      internalID: 8012248700122912842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90657885d77e1644b90285057350b133
+      internalID: 2385845033307434966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7089e1df59e66843845326e5446bf78
+      internalID: 778756278724599721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 11880
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29581e127c8c8f41bd213559d53caab
+      internalID: 3324924095767463708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a5d0d8bba070f4cb7a93884c639032
+      internalID: 8099479500985131022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b29fcdf10e83c4c80e47bf6c46cd88
+      internalID: -5825975690168288785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801192364d5f7cd41b918c316e1e0682
+      internalID: -4720089086165434649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde0a38090ec59249ba0ae8f7a0f2f41
+      internalID: -8886415623067639203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c022c601a82d7d41b2bb34511b590f7
+      internalID: 1315084186235214681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3159cae4d56d1f4498d2a1888303b817
+      internalID: 8292583780171615776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f413719d7595449a2938976d8920e8
+      internalID: -3640259117040549234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89943a2dc5b4f604b98257fca26a70b1
+      internalID: 7802207116987167899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2316475f6280f8a42b68d420f9964551
+      internalID: 9167647911289842865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173625336d0ed1e46aaba83cb10b4ed4
+      internalID: 5689718990650675089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5cfbfe12df7184bb8743abc07d2144
+      internalID: 4171351788993267097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 11880
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f737be6dc378d49b8af5105beb84c9
+      internalID: -3533142133586766807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248360181189d824e8aad71ef001787d
+      internalID: 322149388597659950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7519513afd88ff547812be07ed9b0c63
+      internalID: -340734109029570666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df1bd1e0ad9aad4199942309dcc3c68
+      internalID: -3718170130877498124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a82e67744156b469128116fa1ffd07
+      internalID: 2533203954213540062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8048b4eaaadf9e341902cb4a3e5f2c3c
+      internalID: 5634150727758853462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48590f23a6725f45ad69f694ac9504c
+      internalID: -6528086398004807286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0034019f1a24d48a60b12607e41a12
+      internalID: 5305668448222908756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba9c8ca7eaf9d74796c048c0e69bf6b
+      internalID: 4205780805067432227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181e790e7e84a5a44bceb137a07e65d1
+      internalID: -7173509082289414276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf0bb77c7b1d674ea9abf8e6eb9f575
+      internalID: -4704724348758412535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b82d323c38891f4ca1dbf76f1a5f9e1
+      internalID: -7365834454424586495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 11880
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bd062e259a9db4e821f3fc65af553c
+      internalID: 561885656656386622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db3b2383d49ffe4ca3d55eca5d10c89
+      internalID: -7610155775165701294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e789da1016a60440ab13610dcb4e229
+      internalID: 3475370266886980369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e814d9e3f4eecf14e867835c516b0d65
+      internalID: 4948890785718823848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6797a0fa227eb264faa235532ef50b45
+      internalID: -5546971407924732019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b0859ff18c961428e61a8ef4f6885a
+      internalID: -4153361609752706004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3a507e467fda941bc3ed267f9db8ed
+      internalID: 5658167212281494211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13d7056c67ace647ba07a20ecdd11c4
+      internalID: -2729416518665023269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcaf1012dabd9d4eaca389e058903e2
+      internalID: -4701370969200177741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9982884b4c3543342a0efbafcf303837
+      internalID: -4325062114681231130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea8b64b6439064a92d47960f9574a1
+      internalID: -4432141548946200071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shorterbutton spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f872f883507b7a94586e5fd61eaffc63
+      internalID: 4599292157377736445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 894d8bad7b66b3e448dcf6f29f601731
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

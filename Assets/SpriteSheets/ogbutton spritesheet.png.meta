@@ -1,0 +1,1234 @@
+fileFormatVersion: 2
+guid: 59c41caced9bc3649b7b885521a3c522
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1953080335117489920
+    second: ogbutton spritesheet_0
+  - first:
+      213: -1326597682514132104
+    second: ogbutton spritesheet_1
+  - first:
+      213: 7027006573221991406
+    second: ogbutton spritesheet_2
+  - first:
+      213: 4520976507182795897
+    second: ogbutton spritesheet_3
+  - first:
+      213: 3557428385695103808
+    second: ogbutton spritesheet_4
+  - first:
+      213: 872009567600353031
+    second: ogbutton spritesheet_5
+  - first:
+      213: -8182163387031071481
+    second: ogbutton spritesheet_6
+  - first:
+      213: -3573898586857366832
+    second: ogbutton spritesheet_7
+  - first:
+      213: -4071432101224975897
+    second: ogbutton spritesheet_8
+  - first:
+      213: -665158905146011777
+    second: ogbutton spritesheet_9
+  - first:
+      213: -3869846916193102971
+    second: ogbutton spritesheet_10
+  - first:
+      213: 5458486117063898845
+    second: ogbutton spritesheet_11
+  - first:
+      213: -9216147860042678156
+    second: ogbutton spritesheet_12
+  - first:
+      213: -6805251127822790109
+    second: ogbutton spritesheet_13
+  - first:
+      213: 3450711883316991498
+    second: ogbutton spritesheet_14
+  - first:
+      213: 3150017677449824036
+    second: ogbutton spritesheet_15
+  - first:
+      213: 6364646980439104148
+    second: ogbutton spritesheet_16
+  - first:
+      213: -6779754766583846003
+    second: ogbutton spritesheet_17
+  - first:
+      213: 7221853239490330205
+    second: ogbutton spritesheet_18
+  - first:
+      213: 2901091929640684520
+    second: ogbutton spritesheet_19
+  - first:
+      213: -6539213862713344557
+    second: ogbutton spritesheet_20
+  - first:
+      213: 5392083596665863422
+    second: ogbutton spritesheet_21
+  - first:
+      213: -4343996576186985926
+    second: ogbutton spritesheet_22
+  - first:
+      213: 7459874578814094638
+    second: ogbutton spritesheet_23
+  - first:
+      213: -1870189305995155368
+    second: ogbutton spritesheet_24
+  - first:
+      213: 5628841693688478687
+    second: ogbutton spritesheet_25
+  - first:
+      213: 7718142536938864538
+    second: ogbutton spritesheet_26
+  - first:
+      213: 1488674154834609813
+    second: ogbutton spritesheet_27
+  - first:
+      213: 2395140181633352612
+    second: ogbutton spritesheet_28
+  - first:
+      213: -603251169995167946
+    second: ogbutton spritesheet_29
+  - first:
+      213: 5627942342421465700
+    second: ogbutton spritesheet_30
+  - first:
+      213: -7058481175539385049
+    second: ogbutton spritesheet_31
+  - first:
+      213: 59017859158587326
+    second: ogbutton spritesheet_32
+  - first:
+      213: -8938138387080005016
+    second: ogbutton spritesheet_33
+  - first:
+      213: -5487213722000721076
+    second: ogbutton spritesheet_34
+  - first:
+      213: 4214350718018736006
+    second: ogbutton spritesheet_35
+  - first:
+      213: -5917917409598574585
+    second: ogbutton spritesheet_36
+  - first:
+      213: 6174540772678647083
+    second: ogbutton spritesheet_37
+  - first:
+      213: 2390821311816616082
+    second: ogbutton spritesheet_38
+  - first:
+      213: -6527535421235459053
+    second: ogbutton spritesheet_39
+  - first:
+      213: -8783251630850079604
+    second: ogbutton spritesheet_40
+  - first:
+      213: 3453060970320916688
+    second: ogbutton spritesheet_41
+  - first:
+      213: -2597219962452179042
+    second: ogbutton spritesheet_42
+  - first:
+      213: 4988123178603682911
+    second: ogbutton spritesheet_43
+  - first:
+      213: 1698965246674562292
+    second: ogbutton spritesheet_44
+  - first:
+      213: -6421872579192217363
+    second: ogbutton spritesheet_45
+  - first:
+      213: -1860293206433847584
+    second: ogbutton spritesheet_46
+  - first:
+      213: 7620461716475830875
+    second: ogbutton spritesheet_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ogbutton spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063df7eef6eb1334e94a5b38a138cb7f
+      internalID: 1953080335117489920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31c75ef2b057544eb4206b3e5353de0
+      internalID: -1326597682514132104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcad1c03aabaf3d44ae2430e3851d4fb
+      internalID: 7027006573221991406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccb9f72929ef7a4d8060bf8fe765de1
+      internalID: 4520976507182795897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a25917bcceeb1d4289f064c37127683
+      internalID: 3557428385695103808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551b7375f90178c4780eab52d012f943
+      internalID: 872009567600353031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7648d20f586731045a0af87d944a67f4
+      internalID: -8182163387031071481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de13f17fc7dc334d99bd8d9f4c9370c
+      internalID: -3573898586857366832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9929b1dd26c0aa342b04cc188b5d8f13
+      internalID: -4071432101224975897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00595622c3316f5438818ba7cff2e6e2
+      internalID: -665158905146011777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6393dbe13b3989a40b86783cbf20481f
+      internalID: -3869846916193102971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 11880
+        y: 2160
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7538a969dd85e47a8481a69d95e2b6
+      internalID: 5458486117063898845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559183d95d930734bb6ba7aedd9dd112
+      internalID: -9216147860042678156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0091332f67c1b0441a3fcfdb4e2c5c0f
+      internalID: -6805251127822790109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e69b1f35e0d3043a6f88973778d8c9
+      internalID: 3450711883316991498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b21c8c5f7ece94cafeba63b077d66e
+      internalID: 3150017677449824036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47082292a656714fad8bd8f986b7411
+      internalID: 6364646980439104148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98083af11a695514f84382483d32db5c
+      internalID: -6779754766583846003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27450e271d4ed1b448f80071251ef008
+      internalID: 7221853239490330205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561425dcd3aa8b246845060f13805b5a
+      internalID: 2901091929640684520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40ed73619bd29a4582a3299f5d2507e
+      internalID: -6539213862713344557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926c987acaab72141a39f95bd277668f
+      internalID: 5392083596665863422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a47983c4ffed5469804c504db4697e
+      internalID: -4343996576186985926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 11880
+        y: 1440
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02daa235816187a42818568b19eb4b22
+      internalID: 7459874578814094638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b11c79634fb484dba56f7b639ffb5c
+      internalID: -1870189305995155368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca60012b580cd44cad710b4920c479e
+      internalID: 5628841693688478687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a9fbd937672a14b8071e6a85941b9c
+      internalID: 7718142536938864538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c357492f6b8c16b4c8e397b29d480f24
+      internalID: 1488674154834609813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cd51408a673cc49b0d4c2ae27d0bed
+      internalID: 2395140181633352612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56052dfe9c6cce94ab1f6a2d17228e61
+      internalID: -603251169995167946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a0be2ceec386d43ba2cde0371fa99c
+      internalID: 5627942342421465700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb10cf38f7204e41a021392b226d1e3
+      internalID: -7058481175539385049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b029e8942205a545a5086410bdaff5a
+      internalID: 59017859158587326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74323a0c9395ead438f3c1aa872d4cd3
+      internalID: -8938138387080005016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a596f9c94f2c74f9e040e034acc9c9
+      internalID: -5487213722000721076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 11880
+        y: 720
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a64894d8d0dd74f994b21b42aec79d
+      internalID: 4214350718018736006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f34636737657ea478f7f3a4aee8ccdf
+      internalID: -5917917409598574585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cd1bba17b1ba6499599a828974a968
+      internalID: 6174540772678647083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9137d685540e5ab4a82a5001204af773
+      internalID: 2390821311816616082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f754cb107a1db584b8221cac54bf272d
+      internalID: -6527535421235459053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6958eeffd6dad4789bd5301c33f080
+      internalID: -8783251630850079604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed852314c3d628540b2dc0a8f19ef9c6
+      internalID: 3453060970320916688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc6ff06f8e7cbe458ff1aa55784830d
+      internalID: -2597219962452179042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 7560
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390bb55c60a931f4e82471cb62079f1f
+      internalID: 4988123178603682911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af12a5a37562024a8599b7e69540157
+      internalID: 1698965246674562292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 9720
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c221edfa7de56a1469e193e179b280a7
+      internalID: -6421872579192217363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ogbutton spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 0
+        width: 1080
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd1e4446d338684fb6cc14272996eb2
+      internalID: -1860293206433847584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fb7d140ec07691541b43a7ae3b75024c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
